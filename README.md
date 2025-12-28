@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohamed
 
 💻 **Full-Stack Developer in training**  
-🎓 Currently preparing for **CCNA certification**  
+🎓 Currently preparing for **OSCP certification**
 🌱 Learning **Python**, improving backend and automation skills  
 ✨ Passionate about building meaningful and user-focused web applications
 
@@ -45,7 +45,7 @@ I enjoy solving real-world problems through code and collaborating on projects t
 - Full-stack web development projects  
 - Coding challenges to strengthen my logic  
 - Open-source contributions  
-- Building my portfolio websites
+- Building YouCode's project websites
 
 ---
 
