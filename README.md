@@ -2,8 +2,8 @@
 
 💻 **Full-Stack Developer in training**  
 🎓 Currently preparing for **OSCP certification**
-🌱 Learning **Python**, improving backend and automation skills  
-✨ Passionate about building meaningful and user-focused web applications
+🌱 Learning **Python**, improving backend skills  
+✨ I love building purposeful, user-oriented web applications.
 
 ---
 
